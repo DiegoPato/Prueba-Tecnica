@@ -1,0 +1,448 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1705538570286207, "dur":51, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570286339, "dur":32688, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570319047, "dur":1625, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570320716, "dur":518, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570321359, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1705538570321560, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1705538570322177, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570322232, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570322859, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570323194, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570323617, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570323755, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570325281, "dur":127, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570325511, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570325647, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570325719, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570325781, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570326234, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570326299, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705538570326885, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1705538570327219, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1705538570327307, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1705538570327554, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1705538570321261, "dur":6788, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570328051, "dur":355316, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570683368, "dur":128, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570683496, "dur":103, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570683600, "dur":240, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570684096, "dur":3338, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1705538570321451, "dur":6630, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570328087, "dur":2215, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570330303, "dur":8658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570338963, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1705538570339155, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570343180, "dur":3104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1705538570346400, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1705538570346601, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570346924, "dur":3001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1705538570350031, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1705538570350205, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570350501, "dur":3533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1705538570354162, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570354158, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570354364, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570354555, "dur":10417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570365460, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570365668, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570369533, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570369702, "dur":68, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570369778, "dur":3368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570373250, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570373404, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570376378, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570376556, "dur":2842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570379530, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570379656, "dur":2490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570382278, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570382270, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570382342, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570382535, "dur":2539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570385197, "dur":817, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570385194, "dur":822, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570386018, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570386176, "dur":2900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570389194, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570389304, "dur":3478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570392917, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570393030, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570396284, "dur":3087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570399505, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570399666, "dur":4362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570404158, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570404402, "dur":3291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570407861, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570407977, "dur":5623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570413720, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570413919, "dur":6503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570420594, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570420791, "dur":6214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570427120, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570427267, "dur":6228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570433622, "dur":262, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570433980, "dur":5622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570439742, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570439861, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570446843, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570439954, "dur":6968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705538570447034, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705538570447456, "dur":8327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1705538570455929, "dur":227435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705538570321441, "dur":6626, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705538570328073, "dur":10857, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705538570368807, "dur":1527, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1705538570370344, "dur":287, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1705538570370650, "dur":2198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1705538570372851, "dur":243, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1705538570373739, "dur":331, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570374073, "dur":302, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570374382, "dur":253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570374638, "dur":417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570375059, "dur":350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570375412, "dur":1659, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570377075, "dur":750, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570377829, "dur":1045, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570378879, "dur":504, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570379388, "dur":2340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570381749, "dur":218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570381972, "dur":1308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570383304, "dur":2748, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570386526, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570386776, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570387122, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705538570370342, "dur":17054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1705538570388246, "dur":742, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705538570390983, "dur":283413, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1705538570681700, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1705538570681699, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1705538570681909, "dur":1388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705538570321506, "dur":6588, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570328101, "dur":2267, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570330368, "dur":8599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570338969, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1705538570339202, "dur":179, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570341662, "dur":4720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1705538570346495, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1705538570346704, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570347421, "dur":1968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1705538570349542, "dur":222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705538570349538, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705538570349767, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570350329, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705538570353545, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570353541, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570353773, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570354353, "dur":2953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570357513, "dur":549, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570359657, "dur":8800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570368945, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570369083, "dur":3011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570372314, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570372530, "dur":2667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570375479, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570375712, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570375833, "dur":4712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570380732, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570380945, "dur":2780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570384285, "dur":842, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570384281, "dur":868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570385151, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570385308, "dur":3499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570388999, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570389104, "dur":8926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570398175, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570398368, "dur":3800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570402392, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570402535, "dur":4173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570406929, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570407150, "dur":7684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570414969, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570415157, "dur":6974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570422300, "dur":270, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570422660, "dur":7493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570430275, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570430452, "dur":6926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570437483, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570437595, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570437664, "dur":6550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570444331, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570444328, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570444534, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705538570444650, "dur":34363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705538570479117, "dur":204251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570321566, "dur":6550, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570328122, "dur":2567, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570330690, "dur":8283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570338999, "dur":460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705538570338978, "dur":483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705538570339462, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570413099, "dur":2087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705538570415326, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570415460, "dur":7789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705538570423358, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570430106, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570423541, "dur":6643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705538570430388, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570430520, "dur":6425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705538570437044, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570437225, "dur":6400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705538570443737, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570443912, "dur":5113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705538570454305, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705538570449254, "dur":5154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1705538570454511, "dur":228863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570321633, "dur":6499, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570328139, "dur":2670, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570330810, "dur":8166, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570338978, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705538570339212, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570346107, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570342606, "dur":3579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705538570346295, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705538570346511, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570346920, "dur":2583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705538570349606, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705538570349775, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570350264, "dur":3129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705538570353527, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1705538570353792, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570354320, "dur":2595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1705538570357039, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1705538570357271, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570359552, "dur":5444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1705538570365203, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570365631, "dur":5197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570370926, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570371198, "dur":2496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570373797, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570373890, "dur":2459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570376471, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570376571, "dur":3699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570380384, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570380481, "dur":2900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570383491, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570385608, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570383585, "dur":2119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570385851, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570385954, "dur":3617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570389718, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570389913, "dur":3395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570393424, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570393584, "dur":2267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570395959, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570396074, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570396144, "dur":2454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570398743, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570398846, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570401697, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570401811, "dur":2769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570404781, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570407619, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570404889, "dur":2812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570407907, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570408044, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570408120, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570412139, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570412256, "dur":4394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570416767, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570416911, "dur":6728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570423754, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570423945, "dur":6625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570430705, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570437572, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570430886, "dur":6784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570437792, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570438057, "dur":7529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705538570451705, "dur":545, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570445719, "dur":6558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1705538570452673, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705538570452736, "dur":5287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1705538570458121, "dur":225269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570321690, "dur":6459, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570328155, "dur":2839, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570330995, "dur":8050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570339047, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1705538570339381, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570412515, "dur":2471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1705538570415144, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570415322, "dur":7323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705538570422841, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570422997, "dur":6306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705538570429466, "dur":283, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570429792, "dur":7008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705538570436946, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570437119, "dur":7049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705538570444276, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705538570444599, "dur":4986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705538570449759, "dur":6645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1705538570456547, "dur":226832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570321857, "dur":6307, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570328169, "dur":2672, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570330841, "dur":8138, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570339000, "dur":228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705538570338980, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705538570339230, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570410203, "dur":3163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705538570413561, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570413816, "dur":8024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705538570421992, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570422285, "dur":6022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705538570428436, "dur":201, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570428680, "dur":6231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705538570435027, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570435152, "dur":6190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705538570441491, "dur":338, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705538570441869, "dur":7167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705538570449212, "dur":8492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1705538570457844, "dur":225529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570321910, "dur":6270, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570328184, "dur":2700, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570330885, "dur":8097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570338983, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705538570339223, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570407619, "dur":177, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570407955, "dur":5036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705538570413282, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570413456, "dur":6510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705538570420095, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570420243, "dur":6730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705538570427111, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570427255, "dur":8901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705538570436339, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705538570436516, "dur":9022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705538570445708, "dur":13089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1705538570458899, "dur":224484, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570321958, "dur":6235, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570328197, "dur":1898, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570330096, "dur":8862, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570338988, "dur":385, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1705538570338959, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1705538570339375, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570409637, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1705538570412372, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570412507, "dur":5473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705538570418184, "dur":255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570427229, "dur":350, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570418495, "dur":9128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705538570427787, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570427990, "dur":6358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705538570434539, "dur":294, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570434872, "dur":5905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705538570440881, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705538570441082, "dur":8425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705538570449788, "dur":12570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1705538570462477, "dur":220914, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570322004, "dur":6221, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570328226, "dur":10727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570338985, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1705538570338959, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1705538570339158, "dur":224, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570406575, "dur":3103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1705538570409784, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570409914, "dur":4023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705538570414205, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570422027, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570414465, "dur":7644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705538570422239, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570422421, "dur":6110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705538570428634, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570428842, "dur":5349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705538570434332, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570440634, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570434517, "dur":6224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705538570440852, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570441069, "dur":7437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705538570453747, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705538570450017, "dur":4257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1705538570454386, "dur":228973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570322052, "dur":6211, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570328263, "dur":10681, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570338972, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570339168, "dur":236, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570405534, "dur":4539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1705538570410084, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570410236, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705538570413493, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570413652, "dur":5892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705538570419712, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570419880, "dur":6590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705538570426590, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570433378, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570426754, "dur":6733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705538570433678, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570433966, "dur":5367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705538570439453, "dur":225, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570439715, "dur":6865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705538570446700, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570446817, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570453106, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705538570446876, "dur":6319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1705538570453356, "dur":230005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570322108, "dur":6182, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570328290, "dur":10758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570339070, "dur":340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570339050, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570339414, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570342097, "dur":4081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570346314, "dur":204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570346311, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570346521, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570346995, "dur":2744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570349861, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570349858, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570350059, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570350480, "dur":3620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1705538570354263, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":12, "ts":1705538570354262, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons.exe" }}
+,{ "pid":12345, "tid":12, "ts":1705538570354418, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570354548, "dur":3020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons.exe" }}
+,{ "pid":12345, "tid":12, "ts":1705538570357725, "dur":452, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570359600, "dur":6123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570365848, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570365941, "dur":3178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570369255, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570369382, "dur":3658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570373154, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570373256, "dur":2496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570375877, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570375984, "dur":4456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570380550, "dur":305, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570380935, "dur":2489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570383522, "dur":492, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\diego\\Desktop\\Prueba tecnica Petoons\\Prueba tecnica Petoons\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570383519, "dur":497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570384019, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570384137, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570386762, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570386900, "dur":2566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570389584, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570389709, "dur":3676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570393494, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570393592, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570396257, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570396355, "dur":3022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570399504, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570404470, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570399648, "dur":4947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570404785, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570404896, "dur":3165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570408210, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570408383, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570411987, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570416568, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570412141, "dur":4515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570416802, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570416961, "dur":7184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570424276, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570424442, "dur":6671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570431225, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570431360, "dur":6414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570437893, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570438078, "dur":6832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705538570451186, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570445060, "dur":6265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":12, "ts":1705538570451720, "dur":591, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705538570452323, "dur":6040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/diego/Desktop/Prueba tecnica Petoons/Build/Prueba tecnica Petoons_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1705538570458467, "dur":224930, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705538570693129, "dur":2472, "ph":"X", "name": "ProfilerWriteOutput" }
+,
